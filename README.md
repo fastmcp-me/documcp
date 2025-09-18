@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1083/github-pages-documentation)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1083/github-pages-documentation)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1083/github-pages-documentation)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1083/github-pages-documentation)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1083/github-pages-documentation)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1083/github-pages-documentation)
+
 # DocuMCP - Intelligent Documentation Deployment MCP Server
 
 [![CI](https://github.com/tosin2013/documcp/actions/workflows/ci.yml/badge.svg)](https://github.com/tosin2013/documcp/actions/workflows/ci.yml)
